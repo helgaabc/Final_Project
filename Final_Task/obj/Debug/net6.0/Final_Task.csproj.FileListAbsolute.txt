@@ -1,0 +1,15 @@
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/bin/Debug/net6.0/Final_Task
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/bin/Debug/net6.0/Final_Task.deps.json
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/bin/Debug/net6.0/Final_Task.runtimeconfig.json
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/bin/Debug/net6.0/Final_Task.dll
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/bin/Debug/net6.0/Final_Task.pdb
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.csproj.AssemblyReference.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.AssemblyInfoInputs.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.AssemblyInfo.cs
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.dll
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/refint/Final_Task.dll
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.pdb
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/Final_Task.genruntimeconfig.cache
+/Users/elena/Documents/Документы — MacBook Air — Елена/Final_Project/Final_Task/obj/Debug/net6.0/ref/Final_Task.dll
