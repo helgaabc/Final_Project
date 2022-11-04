@@ -1,26 +1,24 @@
-﻿Console.Write("Сколько элементов Вы хотите ввести? ");
-int size = Convert.ToInt32(Console.ReadLine());
-string[] arrayStrings = new string[size];
-int len = 3;
-int pos = 0;
-for (int i = 0; i < size; i++)
+﻿string[] arr1 = new string[5] {"Hello", "Kazan", "123", "world", ":-)"};
+string[] arr2 = new string[arr1.Length];
+void secArray(string[] arr1, string[] array2)
 {
-    Console.WriteLine($"Введите {i + 1}-й элемент: ");
-    string element = Convert.ToString(Console.ReadLine());
-    if (element.Length <= len)
+    int count = 0;
+    for (int i = 0; i < arr1.Length; i++)
     {
-        arrayStrings[pos] = element;
-        pos++;
+    if(arr1[i].Length <= 3)
+        {
+        array2[count] = arr1[i];
+        count++;
+        }
     }
 }
-Console.WriteLine();
-PrintArray(arrayStrings);
-
 void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write(array[i] + " ");
+        Console.Write($"{array[i]} ");
     }
     Console.WriteLine();
 }
+secArray(arr1, arr2);
+PrintArray(arr2);
